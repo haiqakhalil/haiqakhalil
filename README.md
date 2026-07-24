@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haiqa Khalil</h1>
-<h3 align="center">CS Student @ UET Lahore | Learning Java OOP & Python</h3>
+<h1 align="center">Hi , It's Haiqa Khalil</h1>
+<h3 align="center">Cybersecurity Student @ UET Lahore | Learning Java OOP , DataBase System (SQL) & Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Java+%7C+OOP+%7C+Spring+Boot;Python+Enthusiast;Building+real-world+projects+one+step+at+a+time" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying Computer Science (2025-CYS-57) at **UET Lahore**
+- 🎓 Studying Cybersecurity (2025-CYS-57) at **UET Lahore**
 - 💻 Currently deepening my skills in **Java (OOP)**, and exploring **Python**
 - 🏗️ Building full applications end-to-end — from GUI/backend logic to database design
 - 🌱 Learning Spring Boot, MySQL, and full-stack development (Next.js/TypeScript)
