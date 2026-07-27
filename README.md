@@ -46,7 +46,8 @@ A Java desktop app connecting neighbors who need help with those who can give it
 A semester OOP lab project simulating a smart vending machine, built with a Java Spring Boot backend and a Next.js/TypeScript frontend.
 - **Stack:** Java (Spring Boot 3.3.5), MySQL (4 tables), Next.js, TypeScript
 - **Highlights:** MVC architecture (`Item`, `Transaction` models + REST controllers), polymorphism/abstraction via a `PaymentMethod` interface implemented by `CashPayment`, `CardPayment`, and `NFCPayment`
-- **Status:** Core models and payment interface done; REST API, JPA repositories, and frontend in progress
+- **Status:** Core models and payment interface done; REST API, JPA repositories, and frontend everything is complete and app is working great
+- **Future Plans:** Looking forward to develop a food and grocery delivery application 
 
 #### 👻 [Pac-Man Game](https://github.com/haiqakhalil/PacMan-Game)
 A Java implementation of the classic Pac-Man game, built to practice core OOP concepts like classes, inheritance, and game-loop logic.
