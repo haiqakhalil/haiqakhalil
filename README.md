@@ -40,7 +40,7 @@ A Java desktop app connecting neighbors who need help with those who can give it
 - **Stack:** Java, Java Swing (GUI), File I/O for persistence
 - **Highlights:** Full GUI (login, register, home, dashboard), custom `MatchEngine` for accept logic, prevents users from matching their own posts or double-matching
 - **Status:** complete — final polish and testing in progress
-- **Future Plans** Adding Chat bot and developing a live app system
+- **Future Plans:** Adding Chat bot and developing a live app system
 
 #### 🥤 [Smart Vending Machine System](https://github.com/haiqakhalil/SmartVendingMachine)
 A semester OOP lab project simulating a smart vending machine, built with a Java Spring Boot backend and a Next.js/TypeScript frontend.
